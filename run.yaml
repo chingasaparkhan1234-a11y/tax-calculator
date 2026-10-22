@@ -7,7 +7,7 @@ spec:
     name: tax-calculator-pipeline
   params:
     - name: image-name
-      value: "us.icr.io/sn-labs-user/tax-calculator:latest"
+      value: "us.icr.io/sn-labs-chingasaparkhan1234/tax-calculator:latest"
   workspaces:
     - name: shared-workspace
       persistentVolumeClaim:
